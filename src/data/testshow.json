@@ -1,0 +1,20 @@
+[
+    {
+        "episode" : "1",
+        "title" : "The Phantom Menace",
+        "date" : "2023-12-25T18:25:43.511Z",
+        "description" : "The very first episode of it all"
+    },
+    {
+        "episode" : "2",
+        "title" : "Attack of the Clones",
+        "date" : "2023-12-26T12:20:43.511Z",
+        "description" : "The second episode of the series"
+    },
+    {
+        "episode" : "3",
+        "title" : "Revenge of the Sith",
+        "date" : "2023-12-27T18:25:43.511Z",
+        "description" : "The third episode of the series, and the final of this test file"
+    }
+]
